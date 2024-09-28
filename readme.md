@@ -1,6 +1,5 @@
 # Developer Personality Quiz Plugin
 
-Live Demo @ https://prideandpixels.com
 
 This Gutenberg block plugin provides a fun and interactive developer personality quiz. It uses a React-based interface within the WordPress block editor for a seamless user experience.
 
